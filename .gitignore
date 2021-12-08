@@ -130,3 +130,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.vs/ProjectSettings.json
+/.vs/5-forecasting-Fanny-Yuan/v15/.suo
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/tfl-daily-cycle-hires.csv
+/LondonWeatherHourly.pkl
